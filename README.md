@@ -1,9 +1,9 @@
 # Development Guidelines
 
-## Naming Conventions 
+## 🦸 Naming Conventions 
 - ReactJS: https://airbnb.io/javascript/react/
 
-## Version Control
+## 👻 Version Control
 Below are some rules to follow when working with a version control system such as Git:
 
 ### 1. MAKE SURE THE BUILD SUCCEEDS BEFORE COMMITTING CODE.
